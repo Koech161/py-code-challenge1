@@ -1,4 +1,6 @@
 # py-code-challenge1
+# Run pipenv install
+# Run python app.py
 
 # add_numbers
 This python function takes in two inputs and return their sum.
